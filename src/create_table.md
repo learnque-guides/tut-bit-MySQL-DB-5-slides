@@ -16,3 +16,13 @@ CREATE TABLE TableName
     ColumnName3 VARCHAR(50) NOT NULL
 );
 ```
+
+You can create table with default charset:
+
+```sql
+CREATE TABLE IF NOT EXISTS TableName (
+    Id INT NOT NULL PRIMARY KEY,
+    ColumnName2 VARCHAR(50) NOT NULL,
+    ColumnName3 VARCHAR(50) NOT NULL
+) DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
+```

@@ -3,6 +3,7 @@
 - [Create table](./create_table.md)
 - [Alter table](./alter_table.md)
 - [Drop table](./drop_table.md)
+- [Create, alter, drop database](./create_drop_database.md)
 - [Primary key](./primary_key.md)
 - [Foreign key](./foreign_key.md)
 - [Unique constraint](./unique.md)
