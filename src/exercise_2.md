@@ -1,7 +1,7 @@
 # Exercise 2
 
-* Insert a new entry into employees table:
-  * employeeId - 1,
+* Insert a new entry into employees table (BITEmployees):
+  * employee_id - 1,
   * firstName - John,
   * lastName - Johnson,
   * dateOfBirth - 1975-01-01,

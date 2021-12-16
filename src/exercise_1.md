@@ -12,3 +12,5 @@
 * Alter table employees and remove the postalAddress column.
 * Create a new table employeeAddresses, with country - Varchar column.
 * Remove table employeeAddresses.
+* Rename table from MyEmployees to BITEmployees.
+* Rename column employeeId to employee_id.

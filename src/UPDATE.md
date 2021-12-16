@@ -7,7 +7,7 @@
 * Thirdly, specify which rows to be updated using a condition in the WHERE clause. The WHERE clause is optional. If you omit it, the UPDATE statement will update all rows in the table.
 
 ```sql
--- Update rows in table 'TableName' in schema 'dbo'
+-- Update rows in table 'TableName'
 UPDATE TableName
 SET
     ColumnName1 = ColumnValue1,

@@ -7,7 +7,7 @@
 Besides deleting data from a table, the DELETE statement returns the number of rows deleted.
 
 ```sql
--- Delete rows from table '[TableName]' in schema '[dbo]'
-DELETE FROM [dbo].[TableName]
+-- Delete rows from table `TableName`
+DELETE FROM TableName
 WHERE /* add search conditions here */;
 ```

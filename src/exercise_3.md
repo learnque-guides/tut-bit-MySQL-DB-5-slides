@@ -1,7 +1,7 @@
 # Exercise 3
 
-* Alter table employees:
-  * make employeeId column PRIMARY KEY, NOT NULL and IDENTITY.
+* Alter table employees (BITEmployees):
+  * make employee_id column PRIMARY KEY, NOT NULL and IDENTITY.
 * See what happens when you add two more entries in employees, this time without setting the employeeId manually:
   * 'Julie', 'Juliette', '1990-01-01', '0-800-900-111',  'julie@juliette.com', 5000
   * 'Sofie', 'Sophia', '1987-02-03', '0-800-900-222', 'sofie@sophia.com', 1700
