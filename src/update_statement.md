@@ -1,5 +1,4 @@
-# UPDATE
-
+# UPDATE statement
 
 * The UPDATE statement modifies existing data in a table.
 * Firstly, specify the name of the table that you want to update data after the UPDATE keyword.

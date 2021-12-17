@@ -10,7 +10,7 @@
 - [Check constraint](./check_constraint.md)
 - [Exercise 1](./exercise_1.md)
 - [INSERT INTO](./insert_into.md)
-- [UPDATE](./update.md)
+- [UPDATE statement](./update_statement.md)
 - [DELETE FROM](./delete_from.md)
 - [Exercise 2](./exercise_2.md)
 - [Exercise 3](./exercise_3.md)
